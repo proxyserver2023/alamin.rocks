@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:alamin-mahamud/alamin-rocks-api-django.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:alamin-mahamud/alamin-rocks-vue.git
